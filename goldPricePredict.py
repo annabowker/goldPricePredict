@@ -9,7 +9,7 @@ start = dt.datetime(1970,1,1)
 end = dt.date.today()
 #end = dt.datetime(2018,7,24)
 
-quandlKey = "PDszhZvvdzBEcgW7DXby"
+quandlKey = "Enter your quandl key"
 ql.ApiConfig.api_key = quandlKey
 
 #gets closing value of price of an oz of gold in USD
